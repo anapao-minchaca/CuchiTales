@@ -10,7 +10,7 @@
 **Cuchi Tales** consiste en un juego donde el jugador tendrá que controlar a Cuchi, un cerdito volador que tendrá que deslizarse sobre las colinas mientras esquiva obstáculos y come manzanas para ganar puntos. Habrá enemigos en su camino que le bajarán el score y nubes que terminarán con su recorrido. En su recorrido, Cuchi se encontrará con powerups que lo ayudarán en su camino, estos siendo los siguientes:
 * **Rosa** - El score del jugador se duplicará
 * **Azul** - El jugador será invisible ante los enemigos y obstáculos
-* **Verde** - Los enemigos y obstáculos 
+* **Verde** - Los enemigos y obstáculos se harán más pequeños
 
 En la pantalla de inicio se encuentran 3 botones:
 * **Info** - Historia del personaje y nombres de los integrantes del equipo
